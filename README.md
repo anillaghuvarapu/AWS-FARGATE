@@ -13,3 +13,6 @@ Multiple AZs are used for high availability, SSL is terminated at the load balan
 * Security groups for the container and load balancer
 * A DNS record for Route 53
 * An auto scaling policy
+
+references:
+https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html
